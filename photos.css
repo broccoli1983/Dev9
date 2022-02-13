@@ -73,6 +73,18 @@
     /* background:url(../Dev9/photo/p2p_3.png); */
     background:url(https://github.com/broccoli1983/Dev9/blob/master/photo/p2p_3.png?raw=true);
 }
+.slider-item16 {
+    /* background:url(../Dev9/photo/agary3.png); */
+    background:url(https://github.com/broccoli1983/Dev9/blob/master/photo/agary3.png?raw=true);
+}
+.slider-item17 {
+    /* background:url(../Dev9/photo/p2p_4.png); */
+    background:url(https://github.com/broccoli1983/Dev9/blob/master/photo/p2p_4.png?raw=true);
+}
+.slider-item18 {
+    /* background:url(../Dev9/photo/hirap3.png); */
+    background:url(https://github.com/broccoli1983/Dev9/blob/master/photo/hirap3.png?raw=true);
+}
 .slider-item {
     width: 100%;/*各スライダー全体の横幅を画面の高さいっぱい（100%）にする*/
     height:100vh;/*各スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
